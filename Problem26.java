@@ -7,7 +7,7 @@
  * 
  * Do this in constant space and in one pass
  */
-public class LinkListLastK {
+public class Problem26 {
 
    //Class for linkedlist node
     class LNode {
