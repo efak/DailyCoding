@@ -6,7 +6,7 @@ For example, if our input was [1, 2, 3, 4, 5], the expected output would be [120
 
 Follow-up: what if you can't use division?
  */
-public class DayTwo {
+public class Problem2 {
 
     static int computeProduct(int[] arr, int start, int end){
         int prod = 1;
